@@ -1,0 +1,12 @@
+body {
+    background-color: cadetblue;
+    
+}
+.maindiv {
+    height: 150px;
+    width: 300px;
+    margin: 200px;
+    padding: 5%;
+    border: 10px dotted blue;
+
+}
